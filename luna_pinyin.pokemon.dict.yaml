@@ -1,6 +1,6 @@
 ---
 name: luna_pinyin.cn_en
-version: "2021.06.21"
+version: "2023.04.10"
 sort: by_weight
 use_preset_vocabulary: true
 ...
@@ -1031,6 +1031,13 @@ use_preset_vocabulary: true
 铁武者
 故勒顿
 密勒顿
+波荡水
+铁斑叶
+够赞狗
+愿增猿
+吉雉鸡
+厄诡椪
+太乐巴戈斯
 
 
 勤奋
@@ -2327,6 +2334,7 @@ DD金勾臂
 阿罗拉
 伽勒尔
 帕底亚
+北上乡
 菲蕾
 阿尔米亚
 奥卜利比亚
